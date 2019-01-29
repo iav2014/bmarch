@@ -1,0 +1,20 @@
+{
+  "name": "bmarch",
+  "version": "1.0.0",
+  "description": "read pdf file in nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "pdf2json": "^1.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf",
+    "read",
+    "write"
+  ],
+  "author": " (c)",
+  "license": "MIT"
+}
