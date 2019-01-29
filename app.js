@@ -1,6 +1,6 @@
 /*
 * goal: read pdf file
-* tenant: Banca Mech partial solution
+* tenant: Banca March partial solution
 * author: (c) 29/01/2019 Nacho Ariza
 * MIT license
 */
